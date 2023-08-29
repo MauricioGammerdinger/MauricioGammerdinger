@@ -4,8 +4,8 @@
 - 🌱 Estudando Typescript e Python
 - 😄 Pronouns:  Ele/Dele
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)s
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+  ![MauricioGammerdinger GitHub stats](https://github-readme-stats.vercel.app/api?username=MauricioGammerdinger&show_icons=true&theme=radical)s
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioGammerdinger&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Mauricio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

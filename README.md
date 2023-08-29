@@ -14,7 +14,8 @@
   <img align="center" alt="Mauricio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Mauricio Angular "height="30" width="100" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"> 
   <img align="center" alt="Mauricio PHP "height="30" width="100" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-  <img align="center" alt="Mauricio Ionic "height="30" width="40" src="https://images.sftcdn.net/images/t_app-icon-m/p/f7050504-9e2c-4da0-985d-237f160ef67e/4178968722/ionic-xxv7lLvp_400x400.jpg">    
+  <img align="center" alt="Mauricio Ionic "height="30" width="40" src="https://images.sftcdn.net/images/t_app-icon-m/p/f7050504-9e2c-4da0-985d-237f160ef67e/4178968722/ionic-xxv7lLvp_400x400.jpg">   
+  <img align="center" alt="Mauricio scss "height="30" width="40" src="https://sass-lang.com/assets/img/styleguide/seal-color.png">  
           
 </div>
   

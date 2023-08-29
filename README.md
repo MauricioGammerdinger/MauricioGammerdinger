@@ -12,9 +12,9 @@
   <img align="center" alt="Mauricio-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Mauricio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Mauricio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Mauricio Angular "height="100" width="40" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"> 
-  <img align="center" alt="Mauricio PHP "height="100" width="40" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-  <img align="center" alt="Mauricio Ionic "height="50" width="60" src="https://images.sftcdn.net/images/t_app-icon-m/p/f7050504-9e2c-4da0-985d-237f160ef67e/4178968722/ionic-xxv7lLvp_400x400.jpg">    
+  <img align="center" alt="Mauricio Angular "height="30" width="100" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"> 
+  <img align="center" alt="Mauricio PHP "height="30" width="100" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  <img align="center" alt="Mauricio Ionic "height="30" width="40" src="https://images.sftcdn.net/images/t_app-icon-m/p/f7050504-9e2c-4da0-985d-237f160ef67e/4178968722/ionic-xxv7lLvp_400x400.jpg">    
           
 </div>
   

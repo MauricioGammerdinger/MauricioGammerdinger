@@ -2,7 +2,6 @@
 
 - 🔭 Estou estudando TI e sou mais da area de front-end, mas aprendemos back-end também
 - 🌱 Estudando Typescript e Python
-- 😄 Pronouns:  Ele/Dele
 
    ![MauricioGammerdinger GitHub stats](https://github-readme-stats.vercel.app/api?username=MauricioGammerdinger&show_icons=true&theme=dracula)s
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioGammerdinger&layout=donut)](https://github.com/anuraghazra/github-readme-stats)

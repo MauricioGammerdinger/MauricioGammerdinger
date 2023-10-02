@@ -17,7 +17,7 @@
 #  
 
 
-- 🌱 I’m currently learning Python & Java
+- 🌱 I’m currently learning Python & Java & C
 - 📫 How to reach me: mauricio.contact10@gmail.com
 - 💬 I am a full stack graduate in IT at Senac Niterói and will continue studying programming
 
